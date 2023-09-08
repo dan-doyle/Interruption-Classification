@@ -1,0 +1,2132 @@
+[
+    {
+        "groupNumber": "5",
+        "startTime": "01:03.1",
+        "speakerId": "Orange",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "5",
+        "startTime": "01:28.1",
+        "speakerId": "Blue",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "5",
+        "startTime": "01:41.5",
+        "speakerId": "Pink",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "5",
+        "startTime": "01:45.4",
+        "speakerId": "Blue",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "5",
+        "startTime": "02:28.3",
+        "speakerId": "Pink",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "5",
+        "startTime": "03:03.3",
+        "speakerId": "Orange",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "5",
+        "startTime": "03:40.9",
+        "speakerId": "Blue",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "5",
+        "startTime": "03:52.4",
+        "speakerId": "Orange",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "5",
+        "startTime": "03:56.4",
+        "speakerId": "Orange",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "5",
+        "startTime": "04:24.7",
+        "speakerId": "Orange",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "5",
+        "startTime": "05:02.3",
+        "speakerId": "Blue",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "5",
+        "startTime": "05:17.1",
+        "speakerId": "Orange",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "5",
+        "startTime": "05:45.5",
+        "speakerId": "Blue",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "5",
+        "startTime": "05:56.4",
+        "speakerId": "Blue",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "5",
+        "startTime": "06:04.1",
+        "speakerId": "Blue",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "5",
+        "startTime": "06:09.3",
+        "speakerId": "Orange",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "5",
+        "startTime": "06:09.9",
+        "speakerId": "Blue",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "5",
+        "startTime": "06:35.0",
+        "speakerId": "Blue",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "5",
+        "startTime": "06:36.7",
+        "speakerId": "Orange",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "5",
+        "startTime": "06:39.3",
+        "speakerId": "Blue",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "5",
+        "startTime": "06:40.1",
+        "speakerId": "Orange",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "5",
+        "startTime": "06:45.7",
+        "speakerId": "Orange",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "5",
+        "startTime": "06:54.4",
+        "speakerId": "Blue",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "5",
+        "startTime": "07:01.3",
+        "speakerId": "Yellow",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "5",
+        "startTime": "07:03.8",
+        "speakerId": "Blue",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "5",
+        "startTime": "08:34.8",
+        "speakerId": "Blue",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "5",
+        "startTime": "08:51.2",
+        "speakerId": "Orange",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "5",
+        "startTime": "08:57.7",
+        "speakerId": "Orange",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "5",
+        "startTime": "09:14.4",
+        "speakerId": "Orange",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "5",
+        "startTime": "09:38.4",
+        "speakerId": "Pink",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "5",
+        "startTime": "09:50.7",
+        "speakerId": "Blue",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "5",
+        "startTime": "10:00.9",
+        "speakerId": "Orange",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "5",
+        "startTime": "10:27.2",
+        "speakerId": "Orange",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "5",
+        "startTime": "11:35.2",
+        "speakerId": "Yellow",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "5",
+        "startTime": "11:42.2",
+        "speakerId": "Yellow",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "3",
+        "startTime": "00:20.9",
+        "speakerId": "Green",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "3",
+        "startTime": "00:30.5",
+        "speakerId": "Pink",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "3",
+        "startTime": "00:54.5",
+        "speakerId": "Green",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "3",
+        "startTime": "00:57.5",
+        "speakerId": "Green",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "3",
+        "startTime": "01:13.8",
+        "speakerId": "Green",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "3",
+        "startTime": "01:38.4",
+        "speakerId": "Pink",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "3",
+        "startTime": "01:42.4",
+        "speakerId": "Green",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "3",
+        "startTime": "01:59.5",
+        "speakerId": "Green",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "3",
+        "startTime": "02:12.5",
+        "speakerId": "Green",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "3",
+        "startTime": "03:20.9",
+        "speakerId": "Pink",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "3",
+        "startTime": "03:24.2",
+        "speakerId": "Green",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "3",
+        "startTime": "03:31.0",
+        "speakerId": "Pink",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "3",
+        "startTime": "03:48.4",
+        "speakerId": "Pink",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "3",
+        "startTime": "04:21.4",
+        "speakerId": "Green",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "3",
+        "startTime": "04:37.1",
+        "speakerId": "Pink",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "3",
+        "startTime": "04:54.0",
+        "speakerId": "Green",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "3",
+        "startTime": "05:20.7",
+        "speakerId": "Pink",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "3",
+        "startTime": "05:38.9",
+        "speakerId": "Pink",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "3",
+        "startTime": "05:53.1",
+        "speakerId": "Green",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "3",
+        "startTime": "06:03.0",
+        "speakerId": "Pink",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "3",
+        "startTime": "06:04.2",
+        "speakerId": "Green",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "3",
+        "startTime": "06:53.2",
+        "speakerId": "Green",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "3",
+        "startTime": "06:58.8",
+        "speakerId": "Pink",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "3",
+        "startTime": "07:24.4",
+        "speakerId": "Green",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "8",
+        "startTime": "00:10.6",
+        "speakerId": "Blue",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "8",
+        "startTime": "00:15.3",
+        "speakerId": "Green",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "8",
+        "startTime": "00:27.4",
+        "speakerId": "Green",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "8",
+        "startTime": "00:33.7",
+        "speakerId": "Blue",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "8",
+        "startTime": "00:36.0",
+        "speakerId": "Blue",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "8",
+        "startTime": "01:10.5",
+        "speakerId": "Orange",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "8",
+        "startTime": "01:13.0",
+        "speakerId": "Orange",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "8",
+        "startTime": "01:19.5",
+        "speakerId": "Orange",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "8",
+        "startTime": "01:22.1",
+        "speakerId": "Orange",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "8",
+        "startTime": "01:27.8",
+        "speakerId": "Green",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "8",
+        "startTime": "01:52.5",
+        "speakerId": "Blue",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "8",
+        "startTime": "02:00.2",
+        "speakerId": "Orange",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "8",
+        "startTime": "02:09.2",
+        "speakerId": "Green",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "8",
+        "startTime": "02:34.4",
+        "speakerId": "Orange",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "8",
+        "startTime": "02:42.1",
+        "speakerId": "Orange",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "8",
+        "startTime": "02:52.6",
+        "speakerId": "Orange",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "8",
+        "startTime": "03:08.4",
+        "speakerId": "Orange",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "8",
+        "startTime": "03:13.4",
+        "speakerId": "Green",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "8",
+        "startTime": "03:17.5",
+        "speakerId": "Blue",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "8",
+        "startTime": "03:29.6",
+        "speakerId": "Blue",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "8",
+        "startTime": "03:59.4",
+        "speakerId": "Green",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "8",
+        "startTime": "04:21.4",
+        "speakerId": "Blue",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "8",
+        "startTime": "04:26.1",
+        "speakerId": "Orange",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "8",
+        "startTime": "04:42.1",
+        "speakerId": "Orange",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "8",
+        "startTime": "04:50.9",
+        "speakerId": "Orange",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "8",
+        "startTime": "05:24.3",
+        "speakerId": "Green",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "8",
+        "startTime": "05:37.0",
+        "speakerId": "Orange",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "8",
+        "startTime": "05:45.2",
+        "speakerId": "Orange",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "8",
+        "startTime": "05:55.1",
+        "speakerId": "Green",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "8",
+        "startTime": "05:58.8",
+        "speakerId": "Green",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "8",
+        "startTime": "06:08.2",
+        "speakerId": "Blue",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "8",
+        "startTime": "06:51.4",
+        "speakerId": "Orange",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "8",
+        "startTime": "06:59.6",
+        "speakerId": "Orange",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "8",
+        "startTime": "07:02.5",
+        "speakerId": "Green",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "8",
+        "startTime": "07:19.1",
+        "speakerId": "Green",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "8",
+        "startTime": "07:33.7",
+        "speakerId": "Orange",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "8",
+        "startTime": "07:35.1",
+        "speakerId": "Green",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "8",
+        "startTime": "07:39.0",
+        "speakerId": "Orange",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "8",
+        "startTime": "08:12.0",
+        "speakerId": "Orange",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "8",
+        "startTime": "08:16.4",
+        "speakerId": "Orange",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "8",
+        "startTime": "08:29.0",
+        "speakerId": "Orange",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "8",
+        "startTime": "08:51.4",
+        "speakerId": "Green",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "10",
+        "startTime": "00:12.5",
+        "speakerId": "Pink",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "10",
+        "startTime": "01:16.7",
+        "speakerId": "Orange",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "10",
+        "startTime": "01:47.3",
+        "speakerId": "Orange",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "10",
+        "startTime": "02:20.3",
+        "speakerId": "Orange",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "10",
+        "startTime": "02:28.7",
+        "speakerId": "Orange",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "10",
+        "startTime": "02:52.9",
+        "speakerId": "Pink",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "10",
+        "startTime": "03:16.3",
+        "speakerId": "Orange",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "10",
+        "startTime": "03:24.8",
+        "speakerId": "Pink",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "10",
+        "startTime": "03:31.7",
+        "speakerId": "Orange",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "1",
+        "startTime": "00:23.9",
+        "speakerId": "Blue",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "1",
+        "startTime": "00:24.3",
+        "speakerId": "Pink",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "1",
+        "startTime": "00:35.4",
+        "speakerId": "Blue",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "1",
+        "startTime": "00:37.0",
+        "speakerId": "Pink",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "1",
+        "startTime": "01:08.6",
+        "speakerId": "Green",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "1",
+        "startTime": "01:09.8",
+        "speakerId": "Green",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "1",
+        "startTime": "01:25.3",
+        "speakerId": "Blue",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "1",
+        "startTime": "01:31.5",
+        "speakerId": "Green",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "1",
+        "startTime": "01:46.4",
+        "speakerId": "Pink",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "1",
+        "startTime": "01:49.0",
+        "speakerId": "Pink",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "1",
+        "startTime": "01:51.0",
+        "speakerId": "Blue",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "1",
+        "startTime": "01:55.3",
+        "speakerId": "Pink",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "1",
+        "startTime": "02:11.1",
+        "speakerId": "Green",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "1",
+        "startTime": "02:22.1",
+        "speakerId": "Pink",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "1",
+        "startTime": "02:30.1",
+        "speakerId": "Pink",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "1",
+        "startTime": "02:30.7",
+        "speakerId": "Blue",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "1",
+        "startTime": "02:32.6",
+        "speakerId": "Pink",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "1",
+        "startTime": "02:43.5",
+        "speakerId": "Blue",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "1",
+        "startTime": "02:45.7",
+        "speakerId": "Pink",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "1",
+        "startTime": "03:14.4",
+        "speakerId": "Pink",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "1",
+        "startTime": "03:20.3",
+        "speakerId": "Blue",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "1",
+        "startTime": "03:31.4",
+        "speakerId": "Green",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "1",
+        "startTime": "03:33.0",
+        "speakerId": "Pink",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "1",
+        "startTime": "03:45.0",
+        "speakerId": "Pink",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "1",
+        "startTime": "04:24.1",
+        "speakerId": "Pink",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "1",
+        "startTime": "04:26.9",
+        "speakerId": "Green",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "1",
+        "startTime": "04:54.4",
+        "speakerId": "Pink",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "1",
+        "startTime": "05:01.4",
+        "speakerId": "Pink",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "1",
+        "startTime": "05:08.2",
+        "speakerId": "Blue",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "1",
+        "startTime": "05:08.9",
+        "speakerId": "Blue",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "1",
+        "startTime": "05:13.8",
+        "speakerId": "Pink",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "1",
+        "startTime": "05:22.6",
+        "speakerId": "Pink",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "1",
+        "startTime": "05:23.6",
+        "speakerId": "Blue",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "1",
+        "startTime": "06:00.2",
+        "speakerId": "Blue",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "1",
+        "startTime": "06:02.5",
+        "speakerId": "Green",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "1",
+        "startTime": "06:44.6",
+        "speakerId": "Blue",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "1",
+        "startTime": "07:01.2",
+        "speakerId": "Blue",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "1",
+        "startTime": "07:08.6",
+        "speakerId": "Green",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "1",
+        "startTime": "07:10.5",
+        "speakerId": "Pink",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "1",
+        "startTime": "07:13.6",
+        "speakerId": "Pink",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "1",
+        "startTime": "07:35.6",
+        "speakerId": "Pink",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "1",
+        "startTime": "07:58.9",
+        "speakerId": "Green",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "1",
+        "startTime": "08:25.9",
+        "speakerId": "Green",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "1",
+        "startTime": "08:37.9",
+        "speakerId": "Blue",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "1",
+        "startTime": "09:24.6",
+        "speakerId": "Green",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "9",
+        "startTime": "00:47.8",
+        "speakerId": "Green",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "9",
+        "startTime": "01:09.5",
+        "speakerId": "Pink",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "9",
+        "startTime": "01:36.8",
+        "speakerId": "Green",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "9",
+        "startTime": "01:37.9",
+        "speakerId": "Pink",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "9",
+        "startTime": "01:45.6",
+        "speakerId": "Pink",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "9",
+        "startTime": "01:47.0",
+        "speakerId": "Pink",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "9",
+        "startTime": "02:19.1",
+        "speakerId": "Green",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "9",
+        "startTime": "02:27.5",
+        "speakerId": "Pink",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "9",
+        "startTime": "03:21.9",
+        "speakerId": "Pink",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "9",
+        "startTime": "03:25.9",
+        "speakerId": "Pink",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "9",
+        "startTime": "03:37.2",
+        "speakerId": "Pink",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "9",
+        "startTime": "03:46.8",
+        "speakerId": "Green",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "9",
+        "startTime": "04:03.4",
+        "speakerId": "Pink",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "9",
+        "startTime": "04:16.4",
+        "speakerId": "Pink",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "9",
+        "startTime": "04:23.4",
+        "speakerId": "Blue",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "9",
+        "startTime": "05:18.0",
+        "speakerId": "Pink",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "9",
+        "startTime": "05:23.1",
+        "speakerId": "Blue",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "9",
+        "startTime": "05:46.0",
+        "speakerId": "Pink",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "9",
+        "startTime": "06:12.6",
+        "speakerId": "Green",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "9",
+        "startTime": "06:22.4",
+        "speakerId": "Pink",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "9",
+        "startTime": "06:25.1",
+        "speakerId": "Blue",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "9",
+        "startTime": "06:30.2",
+        "speakerId": "Pink",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "9",
+        "startTime": "06:32.8",
+        "speakerId": "Pink",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "4",
+        "startTime": "00:11.6",
+        "speakerId": "Orange",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "4",
+        "startTime": "00:12.9",
+        "speakerId": "Blue",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "4",
+        "startTime": "00:20.8",
+        "speakerId": "Yellow",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "4",
+        "startTime": "00:33.6",
+        "speakerId": "Yellow",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "4",
+        "startTime": "00:35.0",
+        "speakerId": "Blue",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "4",
+        "startTime": "00:50.9",
+        "speakerId": "Blue",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "4",
+        "startTime": "00:51.5",
+        "speakerId": "Yellow",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "4",
+        "startTime": "01:09.8",
+        "speakerId": "Orange",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "4",
+        "startTime": "01:42.4",
+        "speakerId": "Yellow",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "4",
+        "startTime": "02:03.6",
+        "speakerId": "Blue",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "4",
+        "startTime": "02:06.6",
+        "speakerId": "Yellow",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "4",
+        "startTime": "02:21.5",
+        "speakerId": "Blue",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "4",
+        "startTime": "02:29.6",
+        "speakerId": "Orange",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "4",
+        "startTime": "02:35.9",
+        "speakerId": "Blue",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "4",
+        "startTime": "02:43.6",
+        "speakerId": "Blue",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "4",
+        "startTime": "02:55.4",
+        "speakerId": "Orange",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "4",
+        "startTime": "03:04.3",
+        "speakerId": "Orange",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "4",
+        "startTime": "03:17.8",
+        "speakerId": "Blue",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "4",
+        "startTime": "03:49.2",
+        "speakerId": "Blue",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "7",
+        "startTime": "00:28.9",
+        "speakerId": "Orange",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "7",
+        "startTime": "01:20.8",
+        "speakerId": "Green",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "7",
+        "startTime": "02:00.2",
+        "speakerId": "Orange",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "7",
+        "startTime": "03:16.3",
+        "speakerId": "Green",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "7",
+        "startTime": "03:23.2",
+        "speakerId": "Blue",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "7",
+        "startTime": "03:26.6",
+        "speakerId": "Green",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "7",
+        "startTime": "04:28.8",
+        "speakerId": "Green",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "7",
+        "startTime": "04:43.5",
+        "speakerId": "Blue",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "7",
+        "startTime": "05:32.2",
+        "speakerId": "Green",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "7",
+        "startTime": "05:36.6",
+        "speakerId": "Orange",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "7",
+        "startTime": "05:53.0",
+        "speakerId": "Green",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "7",
+        "startTime": "06:15.9",
+        "speakerId": "Orange",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "7",
+        "startTime": "06:30.6",
+        "speakerId": "Blue",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "7",
+        "startTime": "06:49.7",
+        "speakerId": "Blue",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "7",
+        "startTime": "07:18.9",
+        "speakerId": "Green",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "7",
+        "startTime": "07:27.4",
+        "speakerId": "Blue",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "7",
+        "startTime": "07:37.6",
+        "speakerId": "Blue",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "7",
+        "startTime": "08:07.8",
+        "speakerId": "Orange",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "7",
+        "startTime": "08:17.0",
+        "speakerId": "Green",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "7",
+        "startTime": "10:09.0",
+        "speakerId": "Green",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "7",
+        "startTime": "10:48.8",
+        "speakerId": "Green",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "7",
+        "startTime": "10:59.4",
+        "speakerId": "Green",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "7",
+        "startTime": "11:07.6",
+        "speakerId": "Blue",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "14",
+        "startTime": "01:10.3",
+        "speakerId": "Yellow",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "14",
+        "startTime": "01:21.3",
+        "speakerId": "Blue",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "14",
+        "startTime": "01:26.7",
+        "speakerId": "Blue",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "14",
+        "startTime": "01:37.1",
+        "speakerId": "Red",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "14",
+        "startTime": "02:40.4",
+        "speakerId": "Red",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "14",
+        "startTime": "02:51.7",
+        "speakerId": "Pink",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "14",
+        "startTime": "04:01.6",
+        "speakerId": "Yellow",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "14",
+        "startTime": "04:05.6",
+        "speakerId": "Blue",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "14",
+        "startTime": "04:12.8",
+        "speakerId": "Blue",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "14",
+        "startTime": "04:54.5",
+        "speakerId": "Red",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "14",
+        "startTime": "08:32.6",
+        "speakerId": "Blue",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "14",
+        "startTime": "08:40.7",
+        "speakerId": "Yellow",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "14",
+        "startTime": "09:39.3",
+        "speakerId": "Red",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "12",
+        "startTime": "00:13.8",
+        "speakerId": "Pink",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "12",
+        "startTime": "00:17.7",
+        "speakerId": "Green",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "12",
+        "startTime": "00:22.0",
+        "speakerId": "Blue",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "12",
+        "startTime": "00:32.7",
+        "speakerId": "Pink",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "12",
+        "startTime": "00:51.7",
+        "speakerId": "Orange",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "12",
+        "startTime": "01:01.5",
+        "speakerId": "Pink",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "12",
+        "startTime": "01:27.0",
+        "speakerId": "Pink",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "12",
+        "startTime": "01:45.1",
+        "speakerId": "Pink",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "12",
+        "startTime": "01:55.2",
+        "speakerId": "Orange",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "12",
+        "startTime": "02:01.0",
+        "speakerId": "Blue",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "12",
+        "startTime": "02:05.9",
+        "speakerId": "Pink",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "12",
+        "startTime": "02:31.7",
+        "speakerId": "Pink",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "12",
+        "startTime": "02:35.1",
+        "speakerId": "Pink",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "12",
+        "startTime": "02:44.8",
+        "speakerId": "Orange",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "12",
+        "startTime": "02:51.3",
+        "speakerId": "Orange",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "12",
+        "startTime": "02:52.7",
+        "speakerId": "Pink",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "12",
+        "startTime": "03:27.6",
+        "speakerId": "Blue",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "12",
+        "startTime": "04:00.5",
+        "speakerId": "Green",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "12",
+        "startTime": "04:20.0",
+        "speakerId": "Green",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "12",
+        "startTime": "04:40.8",
+        "speakerId": "Orange",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "13",
+        "startTime": "00:08.1",
+        "speakerId": "Blue",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "13",
+        "startTime": "01:09.0",
+        "speakerId": "Blue",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "13",
+        "startTime": "01:11.5",
+        "speakerId": "Yellow",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "13",
+        "startTime": "01:18.2",
+        "speakerId": "Blue",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "13",
+        "startTime": "01:22.1",
+        "speakerId": "Blue",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "13",
+        "startTime": "02:31.8",
+        "speakerId": "Blue",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "13",
+        "startTime": "02:34.8",
+        "speakerId": "Blue",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "13",
+        "startTime": "02:40.7",
+        "speakerId": "Blue",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "13",
+        "startTime": "02:45.1",
+        "speakerId": "Blue",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "13",
+        "startTime": "02:51.5",
+        "speakerId": "Blue",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "13",
+        "startTime": "03:50.2",
+        "speakerId": "Blue",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "13",
+        "startTime": "04:23.9",
+        "speakerId": "Yellow",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "13",
+        "startTime": "04:34.5",
+        "speakerId": "Blue",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "13",
+        "startTime": "05:17.9",
+        "speakerId": "Yellow",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "13",
+        "startTime": "05:44.7",
+        "speakerId": "Blue",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "13",
+        "startTime": "05:54.0",
+        "speakerId": "Yellow",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "13",
+        "startTime": "07:00.3",
+        "speakerId": "Blue",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "13",
+        "startTime": "08:09.8",
+        "speakerId": "Blue",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "6",
+        "startTime": "00:43.6",
+        "speakerId": "Blue",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "6",
+        "startTime": "00:55.5",
+        "speakerId": "Pink",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "6",
+        "startTime": "01:01.6",
+        "speakerId": "Blue",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "6",
+        "startTime": "01:12.1",
+        "speakerId": "Pink",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "6",
+        "startTime": "01:19.3",
+        "speakerId": "Orange",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "6",
+        "startTime": "01:29.1",
+        "speakerId": "Pink",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "6",
+        "startTime": "01:36.6",
+        "speakerId": "Pink",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "6",
+        "startTime": "02:02.0",
+        "speakerId": "Pink",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "6",
+        "startTime": "02:07.3",
+        "speakerId": "Green",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "6",
+        "startTime": "02:08.9",
+        "speakerId": "Orange",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "6",
+        "startTime": "02:16.2",
+        "speakerId": "Blue",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "6",
+        "startTime": "02:18.2",
+        "speakerId": "Pink",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "6",
+        "startTime": "02:25.6",
+        "speakerId": "Blue",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "6",
+        "startTime": "02:47.6",
+        "speakerId": "Green",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "6",
+        "startTime": "02:58.4",
+        "speakerId": "Green",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "6",
+        "startTime": "03:01.1",
+        "speakerId": "Blue",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "6",
+        "startTime": "03:37.7",
+        "speakerId": "Orange",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "6",
+        "startTime": "03:39.1",
+        "speakerId": "Green",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "6",
+        "startTime": "03:43.8",
+        "speakerId": "Blue",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "6",
+        "startTime": "04:00.0",
+        "speakerId": "Green",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "6",
+        "startTime": "04:01.8",
+        "speakerId": "Blue",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "6",
+        "startTime": "04:15.4",
+        "speakerId": "Orange",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "6",
+        "startTime": "04:23.1",
+        "speakerId": "Green",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "6",
+        "startTime": "04:39.7",
+        "speakerId": "Green",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "6",
+        "startTime": "04:57.0",
+        "speakerId": "Green",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "6",
+        "startTime": "04:59.0",
+        "speakerId": "Pink",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "6",
+        "startTime": "05:34.8",
+        "speakerId": "Pink",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "6",
+        "startTime": "05:40.8",
+        "speakerId": "Pink",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "6",
+        "startTime": "05:54.6",
+        "speakerId": "Pink",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "6",
+        "startTime": "06:21.0",
+        "speakerId": "Pink",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "6",
+        "startTime": "06:46.7",
+        "speakerId": "Pink",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "6",
+        "startTime": "06:50.6",
+        "speakerId": "Green",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "6",
+        "startTime": "07:01.2",
+        "speakerId": "Pink",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "6",
+        "startTime": "07:10.0",
+        "speakerId": "Blue",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "6",
+        "startTime": "07:30.0",
+        "speakerId": "Pink",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "6",
+        "startTime": "07:44.2",
+        "speakerId": "Green",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "6",
+        "startTime": "07:48.3",
+        "speakerId": "Pink",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "6",
+        "startTime": "08:02.8",
+        "speakerId": "Blue",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "6",
+        "startTime": "08:13.2",
+        "speakerId": "Orange",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "6",
+        "startTime": "08:19.8",
+        "speakerId": "Blue",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "6",
+        "startTime": "08:59.9",
+        "speakerId": "Orange",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "6",
+        "startTime": "09:09.4",
+        "speakerId": "Green",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "2",
+        "startTime": "00:03.7",
+        "speakerId": "Blue",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "2",
+        "startTime": "00:15.7",
+        "speakerId": "Pink",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "2",
+        "startTime": "01:07.4",
+        "speakerId": "Blue",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "2",
+        "startTime": "01:17.0",
+        "speakerId": "Pink",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "2",
+        "startTime": "01:24.5",
+        "speakerId": "Blue",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "2",
+        "startTime": "01:45.1",
+        "speakerId": "Pink",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "2",
+        "startTime": "01:54.1",
+        "speakerId": "Pink",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "2",
+        "startTime": "01:58.4",
+        "speakerId": "Pink",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "2",
+        "startTime": "02:01.8",
+        "speakerId": "Blue",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "2",
+        "startTime": "02:17.2",
+        "speakerId": "Blue",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "2",
+        "startTime": "02:18.6",
+        "speakerId": "Blue",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "11",
+        "startTime": "00:07.4",
+        "speakerId": "Green",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "11",
+        "startTime": "00:13.0",
+        "speakerId": "Green",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "11",
+        "startTime": "00:33.6",
+        "speakerId": "Green",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "11",
+        "startTime": "01:07.3",
+        "speakerId": "Green",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "11",
+        "startTime": "01:37.3",
+        "speakerId": "Green",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "11",
+        "startTime": "01:55.5",
+        "speakerId": "Green",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "11",
+        "startTime": "02:18.4",
+        "speakerId": "Pink",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "11",
+        "startTime": "02:32.8",
+        "speakerId": "Pink",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "11",
+        "startTime": "02:58.9",
+        "speakerId": "Green",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "11",
+        "startTime": "03:18.0",
+        "speakerId": "Pink",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "11",
+        "startTime": "03:57.6",
+        "speakerId": "Pink",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "11",
+        "startTime": "03:59.5",
+        "speakerId": "Green",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "11",
+        "startTime": "04:05.5",
+        "speakerId": "Pink",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "11",
+        "startTime": "04:19.4",
+        "speakerId": "Green",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "11",
+        "startTime": "05:07.9",
+        "speakerId": "Pink",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "11",
+        "startTime": "05:58.0",
+        "speakerId": "Green",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "11",
+        "startTime": "06:15.2",
+        "speakerId": "Pink",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "11",
+        "startTime": "06:39.9",
+        "speakerId": "Green",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "11",
+        "startTime": "08:25.4",
+        "speakerId": "Green",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "11",
+        "startTime": "08:34.3",
+        "speakerId": "Green",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "11",
+        "startTime": "08:43.1",
+        "speakerId": "Green",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "11",
+        "startTime": "09:49.0",
+        "speakerId": "Pink",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "11",
+        "startTime": "10:53.4",
+        "speakerId": "Green",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "11",
+        "startTime": "11:05.4",
+        "speakerId": "Green",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "11",
+        "startTime": "11:25.2",
+        "speakerId": "Green",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "11",
+        "startTime": "11:49.4",
+        "speakerId": "Pink",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "11",
+        "startTime": "12:03.7",
+        "speakerId": "Green",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "11",
+        "startTime": "12:10.2",
+        "speakerId": "Pink",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "11",
+        "startTime": "12:25.3",
+        "speakerId": "Pink",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "11",
+        "startTime": "12:26.9",
+        "speakerId": "Pink",
+        "classification": "interruption"
+    },
+    {
+        "groupNumber": "11",
+        "startTime": "12:37.5",
+        "speakerId": "Green",
+        "classification": "non-interruption"
+    }
+]
