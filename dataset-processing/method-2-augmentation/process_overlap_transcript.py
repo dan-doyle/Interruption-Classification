@@ -174,7 +174,7 @@ if __name__ == "__main__":
     for snippet in snippets:
         potential_answer = query_gpt(first_prompt.format(snippet))
         timestamp = extract_answer_content(potential_answer)
-        # Logic: if answer not None: we extract the relevant snippet and query one
+        # logic: if answer not None: we extract the relevant snippet and query one
         if timestamp:
             potential_noninterruption = extract_snippet(snippet, timestamp)
             if potential_noninterruption:
