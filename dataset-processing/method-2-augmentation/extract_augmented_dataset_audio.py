@@ -146,7 +146,7 @@ def create_dataset(segment_length, num_prev):
         train_data = json.load(f) # we only add to the training set, no need for splitting into validation and test sets
     
 
-    # pplit into dictionary so we can process each element separately
+    # split into dictionary so we can process each element separately
     datasets = { 'train': train_data }
 
     for element, dataset in datasets.items():

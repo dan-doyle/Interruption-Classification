@@ -1,0 +1,727 @@
+[
+    {
+        "groupNumber": "27",
+        "startTime": "00:34.1",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "27",
+        "startTime": "00:59.0",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "27",
+        "startTime": "01:23.9",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "27",
+        "startTime": "01:48.6",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "27",
+        "startTime": "02:27.6",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "27",
+        "startTime": "03:07.8",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "27",
+        "startTime": "03:13.5",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "27",
+        "startTime": "04:00.1",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "27",
+        "startTime": "06:48.5",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "27",
+        "startTime": "07:30.2",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "21",
+        "startTime": "01:17.4",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "21",
+        "startTime": "01:55.8",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "21",
+        "startTime": "04:51.4",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "21",
+        "startTime": "05:39.8",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "19",
+        "startTime": "00:41.7",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "19",
+        "startTime": "01:52.0",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "19",
+        "startTime": "03:20.3",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "19",
+        "startTime": "05:00.7",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "15",
+        "startTime": "00:22.3",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "15",
+        "startTime": "01:22.9",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "15",
+        "startTime": "01:31.8",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "15",
+        "startTime": "02:21.1",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "15",
+        "startTime": "02:39.1",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "15",
+        "startTime": "03:28.5",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "15",
+        "startTime": "03:52.3",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "15",
+        "startTime": "04:41.2",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "15",
+        "startTime": "05:06.0",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "15",
+        "startTime": "06:27.2",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "15",
+        "startTime": "07:11.3",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "15",
+        "startTime": "07:12.0",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "15",
+        "startTime": "07:32.5",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "15",
+        "startTime": "07:43.2",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "15",
+        "startTime": "07:50.2",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "15",
+        "startTime": "08:17.6",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "15",
+        "startTime": "08:30.9",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "15",
+        "startTime": "09:46.4",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "15",
+        "startTime": "10:29.8",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "15",
+        "startTime": "11:30.3",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "15",
+        "startTime": "11:44.1",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "15",
+        "startTime": "11:57.7",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "15",
+        "startTime": "12:12.9",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "15",
+        "startTime": "12:43.1",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "15",
+        "startTime": "13:15.3",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "15",
+        "startTime": "13:25.7",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "15",
+        "startTime": "13:52.1",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "15",
+        "startTime": "14:17.8",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "15",
+        "startTime": "14:40.6",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "15",
+        "startTime": "14:45.4",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "28",
+        "startTime": "00:07.0",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "28",
+        "startTime": "00:28.7",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "28",
+        "startTime": "01:00.6",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "28",
+        "startTime": "02:02.7",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "28",
+        "startTime": "02:38.2",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "28",
+        "startTime": "03:57.5",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "28",
+        "startTime": "06:32.7",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "28",
+        "startTime": "06:46.6",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "28",
+        "startTime": "06:47.5",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "28",
+        "startTime": "07:45.0",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "28",
+        "startTime": "08:13.2",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "28",
+        "startTime": "09:25.6",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "28",
+        "startTime": "10:25.1",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "28",
+        "startTime": "10:48.8",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "28",
+        "startTime": "11:47.9",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "28",
+        "startTime": "12:13.3",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "28",
+        "startTime": "14:06.8",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "23",
+        "startTime": "00:33.2",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "23",
+        "startTime": "01:06.9",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "23",
+        "startTime": "01:40.0",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "23",
+        "startTime": "02:52.4",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "23",
+        "startTime": "04:02.5",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "23",
+        "startTime": "04:17.0",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "23",
+        "startTime": "06:46.6",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "23",
+        "startTime": "09:43.1",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "23",
+        "startTime": "10:09.6",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "23",
+        "startTime": "10:14.7",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "23",
+        "startTime": "11:06.8",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "23",
+        "startTime": "11:56.9",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "26",
+        "startTime": "00:11.6",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "26",
+        "startTime": "00:54.1",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "26",
+        "startTime": "01:11.5",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "26",
+        "startTime": "01:12.5",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "26",
+        "startTime": "01:23.6",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "26",
+        "startTime": "02:37.4",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "26",
+        "startTime": "03:28.8",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "26",
+        "startTime": "04:42.0",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "16",
+        "startTime": "01:00.8",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "17",
+        "startTime": "00:23.9",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "17",
+        "startTime": "04:07.7",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "17",
+        "startTime": "06:16.6",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "17",
+        "startTime": "11:23.3",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "22",
+        "startTime": "00:16.0",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "22",
+        "startTime": "00:57.2",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "22",
+        "startTime": "02:19.5",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "22",
+        "startTime": "02:56.0",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "22",
+        "startTime": "03:29.5",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "22",
+        "startTime": "03:59.6",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "22",
+        "startTime": "04:21.0",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "22",
+        "startTime": "04:47.3",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "22",
+        "startTime": "05:47.3",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "25",
+        "startTime": "00:35.4",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "25",
+        "startTime": "00:36.4",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "25",
+        "startTime": "00:44.7",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "25",
+        "startTime": "01:44.8",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "25",
+        "startTime": "02:04.8",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "25",
+        "startTime": "02:34.5",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "25",
+        "startTime": "03:00.8",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "25",
+        "startTime": "03:19.0",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "25",
+        "startTime": "03:57.1",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "25",
+        "startTime": "04:07.5",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "25",
+        "startTime": "04:43.0",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "25",
+        "startTime": "05:43.6",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "25",
+        "startTime": "05:46.5",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "25",
+        "startTime": "06:13.6",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "25",
+        "startTime": "06:26.3",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "25",
+        "startTime": "07:48.5",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "24",
+        "startTime": "00:57.7",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "24",
+        "startTime": "01:40.8",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "24",
+        "startTime": "01:43.1",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "24",
+        "startTime": "02:16.7",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "24",
+        "startTime": "02:59.1",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "24",
+        "startTime": "04:03.7",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "24",
+        "startTime": "04:34.4",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "24",
+        "startTime": "05:08.0",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "24",
+        "startTime": "05:12.4",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "24",
+        "startTime": "05:37.6",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "24",
+        "startTime": "05:53.9",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "24",
+        "startTime": "08:40.1",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "24",
+        "startTime": "09:31.8",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "24",
+        "startTime": "09:44.7",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "24",
+        "startTime": "10:00.8",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "24",
+        "startTime": "11:00.8",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "24",
+        "startTime": "11:06.9",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "24",
+        "startTime": "13:20.9",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "18",
+        "startTime": "00:23.2",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "18",
+        "startTime": "00:34.5",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "18",
+        "startTime": "00:57.5",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "18",
+        "startTime": "02:18.9",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "18",
+        "startTime": "04:40.5",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "18",
+        "startTime": "04:56.3",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "18",
+        "startTime": "07:51.9",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "18",
+        "startTime": "11:30.9",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "18",
+        "startTime": "13:30.4",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "18",
+        "startTime": "13:37.3",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "18",
+        "startTime": "14:01.1",
+        "classification": "non-interruption"
+    },
+    {
+        "groupNumber": "18",
+        "startTime": "15:12.6",
+        "classification": "non-interruption"
+    }
+]
