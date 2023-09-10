@@ -3,7 +3,7 @@ from datetime import datetime, timedelta
 import csv
 
 
-class UtteranceIterator:
+class ConversationIterator:
     """
         Receives a Group Affect and Performance Transcript file and iterates through the conversation identifying cases of overlapped speech relevant to our research. This class implements the iterator protocol and with every iteration this class returns a case of overlapped speech.
 
@@ -84,7 +84,8 @@ class UtteranceIterator:
 
     def get_conversation(self):
         """
-        Retrieves the next instances of overlapped speech, using the 'check_overlap' helper method, changing the state of the class to ensure we move through the transcript in a chronological fashion
+        Retrieves the conversation with the next utterance from the conversation included and indicates if the last utterance has overlapped speech, using the 'check_overlap' helper method. 
+        This method changes the state of the class to ensure we move through the transcript in a chronological fashion
 
         :returns: Current conversational turn or None if there are no more turns
         """
@@ -166,7 +167,7 @@ if __name__ == "__main__":
     output = ""
     transcript_filepath = "./gap-dataset/Transcripts/Transcript Group 1 Feb 8 429.txt"
 
-    c = UtteranceIterator(transcript_filepath)    
+    c = ConversationIterator(transcript_filepath)    
     i = 1
     overlap_count = 0
     for curr in c:
