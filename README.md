@@ -4,7 +4,7 @@ This repository is split into two sections:
 
 ## Directory structure
 
-The Data Processing subdirectory contains the files required for generating the Interruption Dataset from the GAP Dataset. The parse_transcript.py script retrieves instances of overlapped speech, allowing us to manually classifying and store them in '/Manual Annotations/data.json'. The extract_dataset_audio.py script then produces audio snippets and their corresponding text files with classification details.
+The Data Processing subdirectory contains the files required for generating the Interruption Dataset from the GAP Dataset. The parse_transcript.py script retrieves instances of overlapped speech, allowing us to manually classify and store them in '/Manual Annotations/data.json'. The extract_dataset_audio.py script then produces audio snippets and their corresponding text files with classification details.
 
 The method-2-augmentation subdirectory contains similar scripts for the extraction of further audio data from backchannels in the GAP Dataset.
 
@@ -31,7 +31,7 @@ In the folder structure diagram below, we indicate which dataset folders are lef
 ```
 
 ## Set-up
-In creating our dataset we navigate to the Data Processing folder and run parse_transcript.py followed by extract_dataset_audio.py. The latter requires the [pydub](https://github.com/jiaaro/pydub) which relies on [Ffmpeg](https://ffmpeg.org/). Please first install Ffmpeg and then run command:
+In creating our dataset we navigate to the Data Processing folder and run parse_transcript.py followed by extract_dataset_audio.py. The latter requires the [pydub](https://github.com/jiaaro/pydub) which relies on [Ffmpeg](https://ffmpeg.org/). Please first install Ffmpeg and then run the command:
 
 ```
 pip install pydub
@@ -69,4 +69,4 @@ Our modelling is broken down into three sections which each have a corresponding
 
 ## Set-up
 
-Each of the IPython notebooks are ready to be run in a Jupyter notebook environment so long as we install the directories required (as listed in the first code block). Additionally they can be run in a Google Colab environment by simply uncommenting the 'pip installs' in the first code block.
+Each of the IPython notebook is ready to be run in a Jupyter notebook environment so long as we install the directories required (as listed in the first code block). Additionally they can be run in a Google Colab environment by simply uncommenting the 'pip installs' in the first code block.
