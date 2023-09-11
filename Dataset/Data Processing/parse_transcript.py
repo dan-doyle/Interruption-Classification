@@ -165,7 +165,7 @@ class ConversationIterator:
 
 if __name__ == "__main__":
     output = ""
-    transcript_filepath = "./gap-dataset/Transcripts/Transcript Group 1 Feb 8 429.txt"
+    transcript_filepath = "../GAP Dataset/Transcripts/Transcript Group 1 Feb 8 429.txt"
 
     c = ConversationIterator(transcript_filepath)    
     i = 1

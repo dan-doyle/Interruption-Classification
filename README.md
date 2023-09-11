@@ -1,35 +1,43 @@
 This repository is split into two sections:
 
-# 1. Data Processing
+# 1. Dataset
 
 ## Directory structure
 
-The data processing directory contains the files required for generating the Interruption Dataset from the GAP Dataset (which is located in the gap-dataset subdirectory). The parse_transcript.py script retrieves instances of overlapped speech, allowing us to manually classifying and store them in data.json. The extract_dataset_audio.py then produces audio snippets and their corresponding text files with classification details.
+The Data Processing subdirectory contains the files required for generating the Interruption Dataset from the GAP Dataset. The parse_transcript.py script retrieves instances of overlapped speech, allowing us to manually classifying and store them in '/Manual Annotations/data.json'. The extract_dataset_audio.py script then produces audio snippets and their corresponding text files with classification details.
 
 The method-2-augmentation subdirectory contains similar scripts for the extraction of further audio data from backchannels in the GAP Dataset.
 
+In the folder structure diagram below, we indicate which dataset folders are left empty for space purposes. Given the GAP Dataset as a starting point, all of these folders can be created from the scripts contained in this repository.
+
 ```
-|- dataset-processing/
-|  --> data.json
-|  --> extract_dataset_audio.py
-|  |- gap-dataset/
-|  |  |- Audio/
-|  |  |- Transcripts/
-|  --> generate_embeddings.ipynb
+|- Dataset/
+|  |- Data Processing/
+|  |  |- Manual Annotations/
+|  |  |  --> data.json
+|  |  |- Overlap Transcripts/ <- Left empty
+|  |  --> extract_dataset_audio.py
+|  |  --> parse_transcript.py
+|  |- GAP Dataset/
+|  |  |- Audio/ <- Left empty
+|  |  |- Transcripts/ <- Left empty
+|  |- Interruption Dataset/ <- Left empty
 |  |- method-2-augmentation/
 |  |  --> aug_data.json
 |  |  --> extract_augmented_dataset_audio.py
 |  |  --> process_overlap_transcript.py
-|  --> parse_transcript.py
+|  --> generate_embeddings.ipynb
 |  --> print_data_stats.py
 ```
 
 ## Set-up
-In creating our dataset we run parse_transcript.py followed by extract_dataset_audio.py. The latter requires the [pydub](https://github.com/jiaaro/pydub) which relies on [Ffmpeg](https://ffmpeg.org/). Please first install Ffmpeg and then run command:
+In creating our dataset we navigate to the Data Processing folder and run parse_transcript.py followed by extract_dataset_audio.py. The latter requires the [pydub](https://github.com/jiaaro/pydub) which relies on [Ffmpeg](https://ffmpeg.org/). Please first install Ffmpeg and then run command:
 
 ```
 pip install pydub
 ```
+
+Following this, we can use the generate_embeddings.ipynb to create embeddings from the audio snippets in the dataset.
 
 # 2. Modelling
 

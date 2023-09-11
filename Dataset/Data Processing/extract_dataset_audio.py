@@ -15,7 +15,7 @@ def retrieve_details(filepath, speaker, start_time, num_prev):
     """
     Helper function dealing specifically with GAP dataset by retrieving the previous utterances and end time for a specific utterance.
 
-    :param filepath: Path to the file to be read. For example relative path: './gap-dataset/Transcripts/Transcript Group 1 Feb 8 429.txt'
+    :param filepath: Path to the file to be read. For example relative path: '../GAP Dataset/Transcripts/Transcript Group 1 Feb 8 429.txt'
     :param speaker: Speaker identifier (a colour as per GAP protocol)
     :param start_time: Starting time of the utterance.
     :param num_prev: Number of previous utterances to retrieve.
@@ -54,14 +54,14 @@ def get_filepath(number, file_type):
     """
 
     if file_type == 'audio':
-        gap_audio_folder_path = './gap-dataset/Audio'
+        gap_audio_folder_path = '../GAP Dataset/Audio'
         for filename in os.listdir(gap_audio_folder_path):
             if not filename.startswith("MP4"):
                 continue
             if filename.split(' ')[2] == number:
                 return os.path.join(gap_audio_folder_path, filename)
     elif file_type == 'transcript':
-        gap_transcript_folder_path = './gap-dataset/Transcripts'
+        gap_transcript_folder_path = '../GAP Dataset/Transcripts'
         for filename in os.listdir(gap_transcript_folder_path):
             if not filename.startswith("Transcript"):
                 continue

@@ -4,13 +4,12 @@ import time
 import openai
 
 # ensure we set the API key as an environment variable before running the script
-TRANSCRIPT = '' # set to transcript we wish to process e.g. Group 28: current_overlaps.txt
 openai_key = os.environ.get('OPENAI_KEY')
-if not API_KEY:
+if not openai_key:
     raise ValueError("API key not found in environment variables.")
 
-augment_filepath = './aug_overlap_transcripts'
-overlap_transcript_file = 'Group 28: current_overlaps.txt'
+augment_filepath = '../Data Processing/Overlap Transcripts'
+overlap_transcript_file = 'Group 28: current_overlaps.txt' # change this to file containing overlapped speech instances we wish to extract backchannels from
 file_path = os.path.join(augment_filepath, overlap_transcript_file)
 
 def filter_snippets(content):
